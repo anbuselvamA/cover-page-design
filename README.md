@@ -136,4 +136,4 @@ Write HTML and CSS code for designing book cover page and execute them
 ![HTML VALIDATOR](./valida.png)
 
 ## Result:
-The program exercuted successfully.
+The program executed successfully.
